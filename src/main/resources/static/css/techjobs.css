@@ -1,5 +1,8 @@
+
+
 .body-content {
     margin-top: 72px;
+    background-color: #cda9b4;
 }
 
 td, th {
@@ -15,7 +18,7 @@ td {
 }
 
 tr:nth-child(odd) {
-    background-color: #e4e4e4;
+    background-color: #E9D9DE;
 }
 
 .centeredTable {
@@ -25,7 +28,7 @@ tr:nth-child(odd) {
 
 table.job-listing {
     margin: 30px auto;
-    border: 1px solid #e4e4e4;
+    border: 1px solid #E9D9DE;
     width: 80%;
 }
 
@@ -56,7 +59,7 @@ p {
 }
 
 div.job-listing {
-    border: 1px solid #e4e4e4;
+    border: 1px solid #E9D9DE;
     width: 80%;
-    background-color: #e4e4e4;
+    background-color: #E9D9DE;
 }
